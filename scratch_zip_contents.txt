@@ -1,0 +1,27 @@
+Extraction success! Files:
+left1.png
+left2.png
+left3.png
+left4.png
+r1_c1.png
+r1_c2.png
+r1_c3.png
+r1_c4.png
+r2_c1.png
+r2_c2.png
+r2_c3.png
+r2_c4.png
+r3_c1.png
+r3_c2.png
+r3_c3.png
+r3_c4.png
+r4_c1.png
+r4_c2.png
+r4_c3.png
+r4_c4.png
+right1.png
+right2.png
+right3.png
+right4.png
+stop1.png
+stop2.png

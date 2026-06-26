@@ -1,0 +1,6 @@
+{
+  "name": "Custom Browser Start Page",
+  "description": "A stylish, modern browser start page with looping background videos, ambient music, a glassmorphic search bar, quick links, and time widget.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

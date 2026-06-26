@@ -1,10 +1,10 @@
 import React, { useState, useEffect, useRef } from "react";
 import { Search, ChevronDown, ExternalLink, Plus, X, Volume2, VolumeX, Play, Pause } from "lucide-react";
 
-// Local assets from the dashboard folder
-const VIDEO_SRC = "/dashboard/dashboard-video.mp4";
-const MUSIC_SRC = "/dashboard/Across_the_Clearing(music).mp3";
-const LOGO_SRC  = "/dashboard/logo.png";
+// Local assets from the public folder
+const VIDEO_SRC = "/dashboard-video.mp4";
+const MUSIC_SRC = "/Across_the_Clearing(music).mp3";
+const LOGO_SRC  = "/logo.png";
 
 const SEARCH_ENGINES = [
   { id: "google",    name: "Google",    searchUrl: "https://www.google.com/search?q=",           icon: "G" },
@@ -290,28 +290,28 @@ interface RobotCompanionProps {
 
 const ROBOT_FRAMES = {
   left: [
-    "/dashboard/walking/r3_c1.png",
-    "/dashboard/walking/r3_c2.png",
-    "/dashboard/walking/r3_c3.png",
-    "/dashboard/walking/r3_c4.png",
+    "/walking/r3_c1.png",
+    "/walking/r3_c2.png",
+    "/walking/r3_c3.png",
+    "/walking/r3_c4.png",
   ],
   idle: [
-    "/dashboard/walking/r2_c1.png",
-    "/dashboard/walking/r2_c2.png",
-    "/dashboard/walking/r2_c3.png",
-    "/dashboard/walking/r2_c4.png",
+    "/walking/r2_c1.png",
+    "/walking/r2_c2.png",
+    "/walking/r2_c3.png",
+    "/walking/r2_c4.png",
   ],
   right: [
-    "/dashboard/walking/r1_c1.png",
-    "/dashboard/walking/r1_c2.png",
-    "/dashboard/walking/r1_c3.png",
-    "/dashboard/walking/r1_c4.png",
+    "/walking/r1_c1.png",
+    "/walking/r1_c2.png",
+    "/walking/r1_c3.png",
+    "/walking/r1_c4.png",
   ],
   special: [
-    "/dashboard/walking/r4_c1.png",
-    "/dashboard/walking/r4_c2.png",
-    "/dashboard/walking/r4_c3.png",
-    "/dashboard/walking/r4_c4.png",
+    "/walking/r4_c1.png",
+    "/walking/r4_c2.png",
+    "/walking/r4_c3.png",
+    "/walking/r4_c4.png",
   ],
 };
 

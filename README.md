@@ -21,10 +21,9 @@ I'm always open to networking, discussing tech, or just having a good chat. Find
 * 🌍 **Website:** [Visit My Website](https://varun-portfolio-varunix.vercel.app/)
 * 📧 **Email:** [Send me an email](mailto:varunix.robotics@gmail.com)
 * 💼 **LinkedIn:** [Connect with me](https://linkedin.com/in/your-linkedin-profile)
-* 🐙 **GitHub:** [Check out my repos](https://github.com/your-github-username)
-* 📸 **Instagram:** [Follow my journey](https://instagram.com/your-instagram-handle)
+* 🐙 **GitHub:** [Check out my repos](https://github.com/varunixrobotics)
+* 📸 **Instagram:** [Follow my journey](https://www.instagram.com/varun_varunix/)
 * 🎥 **YouTube:** [Watch my videos](https://www.youtube.com/@Varunix-robotics)
-
 ---
 
 ## 🛠️ Languages & Tools I'm Exploring

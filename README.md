@@ -27,7 +27,6 @@ I'm always open to networking, discussing tech, or just having a good chat. Find
 
 ## 🛠️ Languages & Tools I'm Exploring
 
-*(Add the tools you are currently learning here!)*
 * C / C++ / Python
 * HTML / CSS
 * Git & GitHub
